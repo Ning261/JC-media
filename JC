@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JC Media</title>
+    <link rel="stylesheet" href="./resources/CSS/index.css">
+</head>
+<body>
+    <!--Nav bar section-->
+    <nav class="navbar">
+        <ul>
+            <li><a href="">Realestate</a> </li>
+            <li> <a href= ""> Travel</a> </li>
+            <li> <a href=""> Coperate </a> </li>
+        </ul>
+    </nav>
+    <!-- banner section -->
+    <div class="banner"> 
+        <h1>JC Media</h1>
+        <h1> the best content creators in this universe</h1>
+        <img id="yinzhe" src="./A-40.jpg" alt="image of founder">
+        <p id="banner-text"> creating visual miracles </p>
+        <button id="Subscribe"> Subscribe for more content </button>
+    </div>
+    <!-- display gallary-->
+    <div> 
+        <h1> Gallery </h1>
+        <h2> Check out our amazing videos </h2>
+
+    </div>
+
+    <div>
+        <h2> Coperate </h2>
+        <h2> Travel </h2>
+        <iframe width="500" height="400" src="https://www.youtube.com/embed/cksIr6TRIA8">
+        </iframe>
+        <h2> Realestate</h2>
+        <iframe width="500" height="400" src="https://www.youtube.com/embed/ccAOwjqgRbk">
+        </iframe>
+       
+    </div>
+
+</body>
+</html>
