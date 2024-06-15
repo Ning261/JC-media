@@ -1,0 +1,22 @@
+<body>
+  <h1>Ian Shi The Auctioneer</h>
+  <div id="services">
+  <h2>what we offer</h2>
+    <p> <em>Ian shi</em> is an experienced <strong>auctioneer</stong>.<br></br>He provides the below services and can help you to achive the best results. </p>
+    <ol>
+      <li>Auction Services</li>
+      <li>Auction Coaching</li>
+      <li>Social Media Guidance</li>
+    </ol>
+    <h3>how to book</h3>
+      <p> please scan the below QR code to check avaliability. </p>
+      <img src="https://en.wikipedia.org/wiki/QR_code#/media/File:QR_code_for_mobile_English_Wikipedia.svg"/>
+
+</div>
+
+<div id="About Us">
+  <p>Location 100 Queen Street Melbourne 3000 <br><br/>phone 1234567888</p>
+ 
+</div>
+
+</body>

@@ -1,0 +1,39 @@
+.navbar {
+    position:fixed;
+    background-color: aliceblue;
+    width:100%; 
+    top:0; 
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: black;
+    color: white;
+    margin-top: 70px;
+    text-align: center;
+    padding: 100px; 0px; 
+    text-transform: capitalize;
+}
+
+#yinzhe {
+    height: 300px;
+    width: 200px;
+    filter: drop-shadow(1px 1px 1px white);
+}
+
+#banner-text{
+    font-size: 50px;
+    text-transform: capitalize;
+}
+#subscribe {
+    font-size: 30px;
+    
+}
